@@ -40,10 +40,6 @@ Use case && class diagram && sequence diagram
 
 Explain visually how the site works!
 
-### Project Implementation by
-
-Hammou amine & Ilyes Saidoun
-
 ### Version
 
 1.0.0
