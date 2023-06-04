@@ -44,10 +44,6 @@ Explain visually how the site works!
 
 Hammou amine & Ilyes Saidoun
 
-### Author
-
-Prince Carter
-
 ### Version
 
 1.0.0
